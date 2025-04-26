@@ -1,3 +1,6 @@
+
+![Banner](https://user-images.githubusercontent.com/78784850/223382595-206f2aef-9fc7-4782-a57c-f5e21fb9a120.jpg)
+
 # 👋 Hi there, I'm Ali Raza 
 
 [![Portfolio](https://img.shields.io/badge/my_portfolio-000?style=for-the-badge&logo=firebase&logoColor=white)](https://my-cv-b154e.web.app/)
