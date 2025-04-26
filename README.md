@@ -73,18 +73,6 @@
 
 <table>
   <tr>
-    <td>
-      <a href="https://github.com/aliraza401">
-        <img src="https://github-readme-stats.vercel.app/api?username=aliraza401&show_icons=true&theme=radical" />
-      </a>
-    </td>
-    <td>
-      <a href="https://github.com/aliraza401">
-        <img src="https://github-readme-streak-stats.herokuapp.com/?user=aliraza401&theme=radical" />
-      </a>
-    </td>
-  </tr>
-  <tr>
     <td colspan="2">
       <a href="https://github.com/aliraza401">
         <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=aliraza401&layout=compact&theme=radical" />
