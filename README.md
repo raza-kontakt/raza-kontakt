@@ -54,16 +54,10 @@
         <p align="center">MongoDB</p>
       </p>
     </td>
-    <td>
+      <td>
       <p align="center">
-        <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/postgresql-colored.svg" width="36" height="36" alt="PostgreSQL" />
-        <p align="center">PostgreSQL</p>
-      </p>
-    </td>
-    <td>
-      <p align="center">
-        <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/aws-colored.svg" width="36" height="36" alt="AWS" />
-        <p align="center">AWS</p>
+        <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/react-colored.svg" width="36" height="36" alt="React" />
+        <p align="center">React</p>
       </p>
     </td>
   </tr>
