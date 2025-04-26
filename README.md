@@ -1,43 +1,115 @@
-# 👋 Hi there, I'm Ali Raza
+# 👋 Hi there, I'm Ali Raza 
+
+[![Portfolio](https://img.shields.io/badge/my_portfolio-000?style=for-the-badge&logo=firebase&logoColor=white)](https://my-cv-b154e.web.app/)
+[![Twitter Follow](https://img.shields.io/twitter/follow/raza_kontakt?color=0F182A&logo=twitter&style=for-the-badge)](https://twitter.com/raza_kontakt)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ali-raza-4a3284164/)
 
 ## 🚀 About Me
-I'm a passionate developer who loves building innovative solutions and exploring new technologies. I believe in writing clean, efficient code and creating user-friendly applications. When I'm not coding, you can find me exploring new tech trends, contributing to open-source projects, or mentoring other developers.
 
-## 💻 Tech Stack
-- **Languages**: TypeScript, JavaScript, Python
-- **Frontend**: React, Next.js, HTML5, CSS3
-- **Backend**: Node.js, Express
-- **Database**: MongoDB, PostgreSQL
-- **Tools**: Git, Docker, VS Code
-- **Cloud**: AWS, Vercel
+💻 &nbsp;Passionate developer building innovative solutions  
+🌱 &nbsp;Always learning new technologies and best practices  
+🧑‍🏫 &nbsp;Enjoy mentoring junior developers  
+🎮 &nbsp;Avid gamer and tech enthusiast in my free time  
+🎵 &nbsp;Love coding with music in the background  
 
-## 🌟 Current Focus
-- Building scalable web applications
-- Contributing to open-source projects
-- Learning new technologies and best practices
-- Creating developer tools and utilities
-- Exploring AI and machine learning integration
+## 🛠 Technologies I Use
 
-## 🏆 Achievements
+<table>
+  <tr>
+    <td>
+      <p align="center">
+        <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/typescript-colored.svg" width="36" height="36" alt="TypeScript" />
+        <p align="center">TypeScript</p>
+      </p>
+    </td>
+    <td>
+      <p align="center">
+        <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/javascript-colored.svg" width="36" height="36" alt="JavaScript" />
+        <p align="center">JavaScript</p>
+      </p>
+    </td>
+    <td>
+      <p align="center">
+        <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/react-colored.svg" width="36" height="36" alt="React" />
+        <p align="center">React</p>
+      </p>
+    </td>
+    <td>
+      <p align="center">
+        <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/nextjs-colored.svg" width="36" height="36" alt="NextJs" />
+        <p align="center">Next.js</p>
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <p align="center">
+        <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/nodejs-colored.svg" width="36" height="36" alt="NodeJS" />
+        <p align="center">Node.js</p>
+      </p>
+    </td>
+    <td>
+      <p align="center">
+        <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/mongodb-colored.svg" width="36" height="36" alt="MongoDB" />
+        <p align="center">MongoDB</p>
+      </p>
+    </td>
+    <td>
+      <p align="center">
+        <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/postgresql-colored.svg" width="36" height="36" alt="PostgreSQL" />
+        <p align="center">PostgreSQL</p>
+      </p>
+    </td>
+    <td>
+      <p align="center">
+        <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/aws-colored.svg" width="36" height="36" alt="AWS" />
+        <p align="center">AWS</p>
+      </p>
+    </td>
+  </tr>
+</table>
+
+## 📊 My Stats
+
+<table>
+  <tr>
+    <td>
+      <a href="https://github.com/aliraza401">
+        <img src="https://github-readme-stats.vercel.app/api?username=aliraza401&show_icons=true&theme=radical" />
+      </a>
+    </td>
+    <td>
+      <a href="https://github.com/aliraza401">
+        <img src="https://github-readme-streak-stats.herokuapp.com/?user=aliraza401&theme=radical" />
+      </a>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2">
+      <a href="https://github.com/aliraza401">
+        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=aliraza401&layout=compact&theme=radical" />
+      </a>
+    </td>
+  </tr>
+</table>
+
+## 🌟 Achievements
 - Built and launched multiple successful web applications
 - Contributed to various open-source projects
 - Mentored junior developers
 - Created reusable React components and libraries
 
-
 ## 📫 Connect With Me
-- [LinkedIn](https://www.linkedin.com/in/ali-raza-4a3284164/)
-- [Twitter](https://twitter.com/raza_kontakt)
-- [Portfolio](https://my-cv-b154e.web.app/)
+<p align="center">
+  <a href="https://www.linkedin.com/in/ali-raza-4a3284164/">
+    <img src="https://img.icons8.com/fluent/48/000000/linkedin.png"/>
+  </a>
+  <a href="https://twitter.com/raza_kontakt">
+    <img src="https://img.icons8.com/fluent/48/000000/twitter.png"/>
+  </a>
+  <a href="https://my-cv-b154e.web.app/">
+    <img src="https://img.icons8.com/fluent/48/000000/portfolio.png"/>
+  </a>
+</p>
 
-## 🏆 Top Languages
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=aliraza401&layout=compact&theme=radical)
-
-## 🌟 Fun Facts
-- 🎮 Avid gamer and tech enthusiast
-- 📚 Love reading tech blogs and documentation
-- 🎵 Code with music playing in the background
-- 🌍 Always excited to learn about new technologies
-
----
 ⭐️ From [aliraza401](https://github.com/aliraza401)
