@@ -57,7 +57,13 @@
       <td>
       <p align="center">
         <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/react-colored.svg" width="36" height="36" alt="React" />
-        <p align="center">React</p>
+        <p align="center">React Native</p>
+      </p>
+    </td>
+    <td>
+      <p align="center">
+        <img src="https://prismalens.vercel.app/header/logo-white.svg" width="36" height="36" alt="Prisma" />
+        <p align="center">Prisma</p>
       </p>
     </td>
   </tr>
